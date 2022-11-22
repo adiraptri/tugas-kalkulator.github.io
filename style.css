@@ -1,0 +1,12 @@
+background-color: gray;
+    text-align: right;
+}
+td{
+    border-radius: 8%;
+}
+td:hover{
+    background-color: orange;
+}
+table{
+    margin-top: 100px;
+}
